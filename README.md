@@ -35,5 +35,3 @@ Javascript/
 └── carousel.js
 Images/
 └── Image files used in the website
-screenshots/
-└── Screenshots of the live website
